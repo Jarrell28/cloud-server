@@ -23,5 +23,5 @@ jobs:
         application_name: server-test
         environment_name: Servertest-env
         version_label: 4
-        region: us-west-2
+        region: us-east-2
         deployment_package: deploy.zip
